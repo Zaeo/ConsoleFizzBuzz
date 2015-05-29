@@ -1,0 +1,6 @@
+D:\Users\Zaeo\Documents\GitHub\ConsoleFizzBuzz\ConsoleFizzBuzz\bin\Debug\ConsoleFizzBuzz.exe.config
+D:\Users\Zaeo\Documents\GitHub\ConsoleFizzBuzz\ConsoleFizzBuzz\obj\Debug\ConsoleFizzBuzz.csprojResolveAssemblyReference.cache
+D:\Users\Zaeo\Documents\GitHub\ConsoleFizzBuzz\ConsoleFizzBuzz\bin\Debug\ConsoleFizzBuzz.exe
+D:\Users\Zaeo\Documents\GitHub\ConsoleFizzBuzz\ConsoleFizzBuzz\bin\Debug\ConsoleFizzBuzz.pdb
+D:\Users\Zaeo\Documents\GitHub\ConsoleFizzBuzz\ConsoleFizzBuzz\obj\Debug\ConsoleFizzBuzz.exe
+D:\Users\Zaeo\Documents\GitHub\ConsoleFizzBuzz\ConsoleFizzBuzz\obj\Debug\ConsoleFizzBuzz.pdb
