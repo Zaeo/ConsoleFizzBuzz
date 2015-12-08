@@ -4,3 +4,9 @@ D:\Users\Zaeo\Documents\GitHub\ConsoleFizzBuzz\ConsoleFizzBuzz\bin\Debug\Console
 D:\Users\Zaeo\Documents\GitHub\ConsoleFizzBuzz\ConsoleFizzBuzz\bin\Debug\ConsoleFizzBuzz.pdb
 D:\Users\Zaeo\Documents\GitHub\ConsoleFizzBuzz\ConsoleFizzBuzz\obj\Debug\ConsoleFizzBuzz.exe
 D:\Users\Zaeo\Documents\GitHub\ConsoleFizzBuzz\ConsoleFizzBuzz\obj\Debug\ConsoleFizzBuzz.pdb
+S:\Windows Files\Documents\GitHub\ConsoleFizzBuzz\ConsoleFizzBuzz\bin\Debug\ConsoleFizzBuzz.exe.config
+S:\Windows Files\Documents\GitHub\ConsoleFizzBuzz\ConsoleFizzBuzz\obj\Debug\ConsoleFizzBuzz.exe
+S:\Windows Files\Documents\GitHub\ConsoleFizzBuzz\ConsoleFizzBuzz\obj\Debug\ConsoleFizzBuzz.pdb
+S:\Windows Files\Documents\GitHub\ConsoleFizzBuzz\ConsoleFizzBuzz\bin\Debug\ConsoleFizzBuzz.exe
+S:\Windows Files\Documents\GitHub\ConsoleFizzBuzz\ConsoleFizzBuzz\bin\Debug\ConsoleFizzBuzz.pdb
+S:\Windows Files\Documents\GitHub\ConsoleFizzBuzz\ConsoleFizzBuzz\obj\Debug\ConsoleFizzBuzz.csprojResolveAssemblyReference.cache
